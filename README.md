@@ -4,7 +4,7 @@ A playful little desktop pet for Windows. It wanders around your screen, reacts 
 
 ## Install
 
-1. Open the [latest release](https://github.com/abhishek-gupta-ai/shape-releases/releases/latest).
+1. Open the [latest release](https://github.com/heyabhiraj/shape-releases/releases/latest).
 2. Download **`Shape_<version>_x64-setup.exe`** and run it. No admin rights needed.
 3. If Windows SmartScreen says *"Windows protected your PC"*, click **More info → Run anyway**. The installer isn't code-signed with a paid certificate yet.
 
