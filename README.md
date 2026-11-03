@@ -8,7 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/heyabhiraj/shape-releases/releases/latest"><b>⬇ Download for Windows</b></a>
+  <a href="https://apps.microsoft.com/detail/9P7SGTZ8CBTW?mode=direct"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft" width="200"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/heyabhiraj/shape-releases/releases/latest"><b>⬇ Direct download</b></a>
   &nbsp;·&nbsp;
   <a href="https://xshape.pages.dev"><b>🌐 Website</b></a>
   &nbsp;·&nbsp;
@@ -17,7 +21,7 @@
   <a href="https://github.com/heyabhiraj/shape-releases/issues">Report a problem</a>
 </p>
 
-<p align="center">Free · No ads · Windows 10 &amp; 11 · Coming soon to the Microsoft Store</p>
+<p align="center">Free · No ads · Windows 10 &amp; 11</p>
 
 ---
 
@@ -56,15 +60,19 @@
 
 ## Install
 
+**Easiest:** get Shape from the [Microsoft Store](https://apps.microsoft.com/detail/9P7SGTZ8CBTW?mode=direct). It's free, installs in one click, and the Store keeps it up to date.
+
+**Or download the installer:**
+
 1. Open the [latest release](https://github.com/heyabhiraj/shape-releases/releases/latest) and download **`Shape_<version>_x64-setup.exe`** (about 5 MB).
 2. Run it. No admin rights needed; it installs just for you.
-3. If Windows says *"Windows protected your PC"*, click **More info → Run anyway**. This appears because the installer isn't signed with a paid certificate. The Microsoft Store version won't show it.
+3. If Windows says *"Windows protected your PC"*, click **More info → Run anyway**. This appears because the installer isn't signed with a paid certificate; the Microsoft Store version doesn't show it.
 
 Shape starts right away. **Right-click it** for the menu; the tray icon shows or hides it.
 
 ## Updates
 
-Shape keeps itself up to date: it downloads new versions in the background and installs them while you're away from your PC, never during a meeting or presentation, then tells you what's new. Prefer to decide yourself? Turn off **Settings → About → Install updates automatically** and Shape will ask first. Updates are cryptographically signed, so only genuine Shape releases install.
+The Microsoft Store version is updated by the Store. The installer version keeps itself up to date: it downloads new versions in the background and installs them while you're away from your PC, never during a meeting or presentation, then tells you what's new. Prefer to decide yourself? Turn off **Settings → About → Install updates automatically** and Shape will ask first. Updates are cryptographically signed, so only genuine Shape releases install.
 
 ## Requirements
 
