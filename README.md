@@ -21,7 +21,7 @@
   <a href="https://github.com/heyabhiraj/shape-releases/issues">Report a problem</a>
 </p>
 
-<p align="center">Free · No ads · Windows 10 &amp; 11</p>
+<p align="center">Free · No ads · Windows 10 &amp; 11 · <a href="https://xshape.pages.dev/mac">Mac (beta)</a></p>
 
 ---
 
@@ -70,13 +70,29 @@
 
 Shape starts right away. **Right-click it** for the menu; the tray icon shows or hides it.
 
+### Mac (beta)
+
+1. From the [latest release](https://github.com/heyabhiraj/shape-releases/releases/latest), download **`Shape_<version>_universal.dmg`** (Apple Silicon and Intel), open it and drag **Shape** into **Applications**.
+2. Shape isn't signed with an Apple Developer ID yet, so macOS says *"Shape can't be opened"* until you allow it once. In **Terminal**:
+   ```sh
+   xattr -dr com.apple.quarantine /Applications/Shape.app
+   ```
+3. Open Shape from Applications, or start it from Terminal (shows its messages if something goes wrong):
+   ```sh
+   /Applications/Shape.app/Contents/MacOS/shape-desktop
+   ```
+
+More tips on the [Mac page](https://xshape.pages.dev/mac). Push-to-talk isn't on Mac yet.
+
 ## Updates
 
-The Microsoft Store version is updated by the Store. The installer version keeps itself up to date: it downloads new versions in the background and installs them while you're away from your PC, never during a meeting or presentation, then tells you what's new. Prefer to decide yourself? Turn off **Settings → About → Install updates automatically** and Shape will ask first. Updates are cryptographically signed, so only genuine Shape releases install.
+The Microsoft Store version is updated by the Store. The installer and Mac versions keep themselves up to date: it downloads new versions in the background and installs them while you're away from your PC, never during a meeting or presentation, then tells you what's new. Prefer to decide yourself? Turn off **Settings → About → Install updates automatically** and Shape will ask first. Updates are cryptographically signed, so only genuine Shape releases install.
 
 ## Requirements
 
-Windows 10 or 11, 64-bit. Shape uses Microsoft Edge WebView2, which comes with Windows 11; the installer adds it on Windows 10 if it's missing.
+**Windows:** 10 or 11, 64-bit. Shape uses Microsoft Edge WebView2, which comes with Windows 11; the installer adds it on Windows 10 if it's missing.
+
+**Mac:** macOS 11 Big Sur or later, Apple Silicon or Intel.
 
 ## Privacy
 
