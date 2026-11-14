@@ -56,6 +56,7 @@
 - **Just ask.** "open Spotify", "organise my Downloads", "find PDFs from last week", "close all Chrome windows", "focus 25 min". Changes are shown first, and Undo puts everything back.
 - **Teach it new skills.** "when I say start my day, open Outlook and plan my day", or "every weekday at 9am, show my tasks".
 - **Word, Excel and PowerPoint.** "make an Excel budget", "write a cover letter in Word", "make a 6 slide deck about our Q4 plan". Drop a messy file on Shape and say "format this" for a clean copy.
+- **Let's play.** Right-click → Play: tic-tac-toe, rock paper scissors, flip a coin, memory match, fetch and hide and seek. Games unlock new outfits.
 - **Alive on your screen.** Drag it, throw it, shake it until it's dizzy. It walks on your windows, follows your cursor if you like, and naps when you're away.
 - **Reminders in plain words.** Type "stretch in 20 min" or "call Mum at 5pm". Shape pops up on time, with a Windows notification too.
 - **Meeting nudges.** Add your Outlook or iCal calendar link and Shape lets you know a few minutes before each meeting.
@@ -63,7 +64,7 @@
 - **AI chat (optional).** Bring your own Claude or Gemini key to ask questions (with answers from the web) or manage your to-do list by chatting.
 - **Polite in meetings.** Goes quiet when you present, go fullscreen or join a call, and stays invisible in screen shares.
 - **Remembers you.** Your name, birthdays and the little things you tell it, a morning briefing, and streaks.
-- **Make it yours.** Light, dark or system theme with your accent colour, eight body shapes, hats and faces to unlock, and festival outfits. New ones arrive over time.
+- **Make it yours.** Light, dark or system theme with your accent colour, eight body shapes, capes, hats and faces to unlock, festival outfits, and a new look every day if you like.
 
 New here? The [Docs](https://xshape.pages.dev/guide) have getting started, tutorials, use cases and a cheat sheet.
 
