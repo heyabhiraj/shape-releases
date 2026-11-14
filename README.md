@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>A tiny, playful companion that lives on your Windows desktop.</b><br>
-  It wanders around your screen, reminds you about tasks and meetings, holds your files and cheers you on.
+  It gets things done when you ask: opens apps, tidies folders, finds files, writes Word, Excel and PowerPoint files,<br>learns new skills in your own words, and reminds you about tasks and meetings.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/heyabhiraj/shape-releases/releases">What's new</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/heyabhiraj/shape-releases/issues">Report a problem</a>
+  <a href="https://xshape.pages.dev/guide">Docs</a>
 </p>
 
 <p align="center">Free · No ads · Windows 10 &amp; 11 · <a href="https://xshape.pages.dev/mac">Mac (beta)</a></p>
@@ -29,34 +29,43 @@
 
 <p align="center">
   <a href="https://github.com/heyabhiraj/shape-releases/raw/main/media/shape-trailer.mp4"><img src="media/preview.gif" alt="Shape trailer" width="100%"></a>
-  <br><sub><a href="https://github.com/heyabhiraj/shape-releases/raw/main/media/shape-trailer.mp4">Watch the full trailer in HD (MP4, 28 s)</a></sub>
+  <br><sub><a href="https://github.com/heyabhiraj/shape-releases/raw/main/media/shape-trailer.mp4">Watch the full trailer in HD (MP4, 46 s)</a></sub>
 </p>
 
 <table>
   <tr>
-    <td width="50%"><img src="media/screenshots/01-reminders.png" alt="A reminder bubble with Done and Snooze"><br><b>Reminders that pop up on time</b></td>
-    <td width="50%"><img src="media/screenshots/02-ai-chat.png" alt="Shape answering in AI chat and adding tasks"><br><b>Chat with your own AI</b></td>
+    <td width="50%"><img src="media/screenshots/01-skills.png" alt="Teaching Shape a skill in plain words"><br><b>Teach it new skills</b></td>
+    <td width="50%"><img src="media/screenshots/02-documents.png" alt="A PowerPoint deck Shape just made"><br><b>Writes Word, Excel and slides</b></td>
   </tr>
   <tr>
-    <td><img src="media/screenshots/03-pocket.png" alt="Shape's pocket holding files"><br><b>A pocket for your files</b></td>
-    <td><img src="media/screenshots/04-menu.png" alt="The right-click menu"><br><b>Everything is a right-click away</b></td>
+    <td width="50%"><img src="media/screenshots/03-reminders.png" alt="A reminder bubble with Done and Snooze"><br><b>Reminders that pop up on time</b></td>
+    <td width="50%"><img src="media/screenshots/04-menu.png" alt="The right-click menu"><br><b>Everything is a right-click away</b></td>
   </tr>
   <tr>
-    <td><img src="media/screenshots/05-make-it-yours.png" alt="Settings: choose Shape's look"><br><b>Make it yours</b></td>
-    <td><img src="media/screenshots/06-tasks-calendar.png" alt="Settings: tasks and calendar"><br><b>Tasks and meetings, sorted</b></td>
+    <td width="50%"><img src="media/screenshots/05-ai-chat.png" alt="Shape answering in AI chat and adding tasks"><br><b>Chat with your own AI</b></td>
+    <td width="50%"><img src="media/screenshots/06-pocket.png" alt="Shape's pocket holding files"><br><b>A pocket for your files</b></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="media/screenshots/07-make-it-yours.png" alt="Settings: theme, accent and look"><br><b>Make it yours</b></td>
+    <td width="50%"><img src="media/screenshots/08-tasks-calendar.png" alt="Settings: tasks and calendar"><br><b>Tasks and meetings, sorted</b></td>
   </tr>
 </table>
 
 ## What it does
 
+- **Just ask.** "open Spotify", "organise my Downloads", "find PDFs from last week", "close all Chrome windows", "focus 25 min". Changes are shown first, and Undo puts everything back.
+- **Teach it new skills.** "when I say start my day, open Outlook and plan my day", or "every weekday at 9am, show my tasks".
+- **Word, Excel and PowerPoint.** "make an Excel budget", "write a cover letter in Word", "make a 6 slide deck about our Q4 plan". Drop a messy file on Shape and say "format this" for a clean copy.
 - **Alive on your screen.** Drag it, throw it, shake it until it's dizzy. It walks on your windows, follows your cursor if you like, and naps when you're away.
 - **Reminders in plain words.** Type "stretch in 20 min" or "call Mum at 5pm". Shape pops up on time, with a Windows notification too.
 - **Meeting nudges.** Add your Outlook or iCal calendar link and Shape lets you know a few minutes before each meeting.
 - **A pocket for files.** Drop files on Shape to hold them, drag them out anywhere, or feed them to the Recycle Bin, with Undo.
-- **AI chat (optional).** Bring your own Claude or Gemini key to ask questions or manage your to-do list by chatting.
+- **AI chat (optional).** Bring your own Claude or Gemini key to ask questions (with answers from the web) or manage your to-do list by chatting.
 - **Polite in meetings.** Goes quiet when you present, go fullscreen or join a call, and stays invisible in screen shares.
 - **Remembers you.** Your name, birthdays and the little things you tell it, a morning briefing, and streaks.
-- **Make it yours.** Eight body shapes, any colour, hats and faces to unlock, and festival outfits. New ones arrive over time.
+- **Make it yours.** Light, dark or system theme with your accent colour, eight body shapes, hats and faces to unlock, and festival outfits. New ones arrive over time.
+
+New here? The [Docs](https://xshape.pages.dev/guide) have getting started, tutorials, use cases and a cheat sheet.
 
 ## Install
 
@@ -101,7 +110,7 @@ Read the [Privacy Policy](https://xshape.pages.dev/privacy) and [Terms of Use](h
 
 ## Help
 
-- Something not working? In Shape, open **Settings → About → Report a problem**, or [open an issue](https://github.com/heyabhiraj/shape-releases/issues).
+- Something not working? In Shape, open **Settings → About → Report a problem** (it writes an email with Shape's log), or [open an issue](https://github.com/heyabhiraj/shape-releases/issues).
 - Email: [shapexdev@proton.me](mailto:shapexdev@proton.me)
 - Uninstall: Windows Settings → Apps → Installed apps → Shape → Uninstall.
 
